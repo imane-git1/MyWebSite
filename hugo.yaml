@@ -1,0 +1,17 @@
+baseURL: https://github.com/imane-git1/MyWebSite.g
+languageCode: en-us
+title: MyWebSite
+theme: PaperMod
+
+
+menu:
+  main:
+    - name: Home
+      url: /
+      weight: 1
+    - name: About us
+      url: /About-us/
+      weight: 2
+    - name: Who we are
+      url: /Who-we-are/
+      weight: 3
